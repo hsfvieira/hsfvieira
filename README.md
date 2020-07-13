@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Twitter](https://img.shields.io/twitter/follow/hfioreli?color=yellow&style=for-the-badge)](https://twitter.com/hfioreli)
+
 <!--
 **hsfvieira/hsfvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
